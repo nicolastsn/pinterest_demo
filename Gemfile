@@ -24,6 +24,7 @@ gem 'bootstrap-sass'
 gem 'simple_form' 
 gem 'devise'
 gem 'jquery-rails'
+gem 'paperclip'
 
 
 # Use CoffeeScript for .coffee assets and views
